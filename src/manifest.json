@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "uk.co.hanken.joplin-table",
+	"app_min_version": "2.1.0",
+	"version": "1.0.0",
+	"name": "Joplin Table Lint/Pivot",
+	"description": "Lint Markdown Tables or Pivots to List if too wide",
+	"author": "Lee Hanken",
+	"homepage_url": "https://github.com/macsplit/joplin-table-plugin",
+	"repository_url": "https://github.com/macsplit/joplin-table-plugin",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
